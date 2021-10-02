@@ -1,0 +1,1 @@
+Arquivos com fotos do projeto do sistema de vendas como exemplo.
