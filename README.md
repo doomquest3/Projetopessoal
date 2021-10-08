@@ -20,9 +20,11 @@
 
 <div style="display: flex">
     <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/VisualStudio.png">
-    <p>Front-end: Visual studio
-        Fizemos uso das ferramentas disponíveis no visual studio em conjunto com C#
-    </p>
+    <div>
+        <p>Front-end: Visual studio
+            Fizemos uso das ferramentas disponíveis no visual studio em conjunto com C#
+        </p>
+    </div>
 </div>
   
  
