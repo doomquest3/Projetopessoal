@@ -17,47 +17,32 @@
 
  ## Front-End
  
-
-<div style="display: flex;">
-    <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/VisualStudio.png">
-    <div>
-        <p>Front-end: Visual studio
-            Fizemos uso das ferramentas disponíveis no visual studio em conjunto com C#
-        </p>
-    </div>
-</div>
-  
- 
- 
+<p float="left">
+    Front-end: Visual studio
+    Fizemos uso das ferramentas disponíveis no visual studio em conjunto com C#
+    <img align="center" height="50" width="50" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/VisualStudio.png">
+</p>
  
  ## Back-End
- 
- <div style="display: flex;">
-    <div><img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/C%23.png"></div>
-    <div>
-        <p>Back-end: C# .Net</p>
-    </div>
 
- </div>
+ <p float="left">
+    Back-end: C# .Net
+    <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/C%23.png">
+</p>
  
  ## Banco de Dados
  
- <p float="left">
+<p float="left">
     Banco de dados: Mysql Workbench.
     <img align="center" height="50" width="50" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
- </p>
- 
-<div style="">
-    <div>
-        <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
-        <p>Banco de dados: Mysql Workbench</p>
-    </div>
-    <br />
-    <div>
-        <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/Xampp.png">
-        <p>Xampp</p>
-    </div>
-</div>
+</p>
+
+ <br />
+
+<p float="left">
+    Servidor do banco de dados: Xampp.
+    <img align="center" height="50" width="50" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/Xampp.png">
+</p>
   
 <br />
 
