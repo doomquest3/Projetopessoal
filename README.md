@@ -3,10 +3,12 @@
 
 # Sobre o projeto
 
-<p>
-<br/> O projeto trata-se de gerenciador de vendas e estoque com o objetivo de solucionar uma demanda proposta na disciplina de Banco de Dados 1 e 2, do curso ciência da computação  da Universidade federal do Amapá (Unifap-AP), sendo a proposta de gerenciar estoque e vendas para os vendedores ambulantes e alunos que trabalham no campus marco zero na unifap.
-Projeto foi realizado através de um prototipo.
-</p>
+<div  align="center">
+ <p>
+  <br/> O projeto trata-se de gerenciador de vendas e estoque com o objetivo de solucionar uma demanda proposta na disciplina de Banco de Dados 1 e 2, do curso ciência da         computação  da Universidade federal do Amapá (Unifap-AP), sendo a proposta de gerenciar estoque e vendas para os vendedores ambulantes e alunos que trabalham no campus marco     zero na unifap.
+  Projeto foi realizado através de um prototipo.
+ </p>
+</div>
 
 ## PROGRAMAS UTILIZADOS NO PROJETO
 
@@ -52,17 +54,23 @@ Projeto foi realizado através de um prototipo.
 
 ## Tela de menu principal
 
+<br />
+
 <img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaMenu.jpeg">
 
 <br />
 
 ## Tela de estoque
 
+<br />
+
 <img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaEstoque.jpeg">
 
 <br />
 
 ## Tela de resetar senha
+
+<br />
 
 <img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaResetarSenha.jpeg">
 
