@@ -20,9 +20,9 @@
 <ul>
 
 <li><div style="display: inline_block">
+    <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/VisualStudio.png">
     <p>Front-end: Visual studio</p>
-    <img align="center" height="30" width="40" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/VisualStudio.png">
-    <p>Fizemos uso das ferramentas do visual studio em conjunto com C#</p>
+    <p>Fizemos uso das ferramentas disponíveis no visual studio em conjunto com C#</p>
 </div></li>
   
  </ul>
@@ -34,8 +34,8 @@
  <ul>
 
   <li><div style="display: inline_block">
+    <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/C%23.png">
     <p>Back-end: C# .Net</p>
-    <img align="center" height="30" width="40" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/C%23.png">
   </div></li>
 
  </ul>
@@ -44,13 +44,14 @@
  
  <ul>
     <li><div style="display: inline_block">
+    <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
     <p>Banco de dados: Mysql Workbench</p>
-    <img align="center" height="30" width="40" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
   </div></li>
     <br />
     <li><div style="display: inline_block">
+    <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/Xampp.png">
     <p>Xampp</p>
-    <img align="center" height="30" width="40" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/Xampp.png">
+    
   </div></li>
   
 <br />
