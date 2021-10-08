@@ -42,10 +42,14 @@
  
  ## Banco de Dados
  
+ <p>
+    Banco de dados: Mysql Workbench.
+    <img align="center" height="50" width="50" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
+ </p>
  
-<div style="display: flex; float: left;">
+<div style="">
     <div>
-        <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/ imagens%20para%20repositorio/MySql.png">
+        <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
         <p>Banco de dados: Mysql Workbench</p>
     </div>
     <br />
