@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-<div  align="center" border:1px solid black;>
+<div  style=" align=center ; border:1px solid black;">
  
  <p>
   <br/> O projeto trata-se de gerenciador de vendas e estoque com o objetivo de solucionar uma demanda proposta na disciplina de Banco de Dados 1 e 2, do curso ciência da         computação  da Universidade federal do Amapá (Unifap-AP), sendo a proposta de gerenciar estoque e vendas para os vendedores ambulantes e alunos que trabalham no campus marco     zero na unifap.
@@ -19,10 +19,11 @@
  
 <ul>
 
-<li><div style="display: inline_block">
+<li><div style="display: flex; align-items:center; justify-content: center">
     <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/VisualStudio.png">
-    <p>Front-end: Visual studio</p>
-    <p>Fizemos uso das ferramentas disponíveis no visual studio em conjunto com C#</p>
+    <p>Front-end: Visual studio
+        Fizemos uso das ferramentas disponíveis no visual studio em conjunto com C#
+    </p>
 </div></li>
   
  </ul>
