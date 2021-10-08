@@ -38,13 +38,13 @@
 
 ## Layout para Computador
 
-## tela de login
+## Tela de login
 
 <img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaLogin.jpeg">
 
 <br />
 
-## tela de cadastro
+## Tela de cadastro
 
 <br />
 
