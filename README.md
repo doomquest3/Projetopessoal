@@ -42,7 +42,7 @@
  
  ## Banco de Dados
  
- <p>
+ <p float="left">
     Banco de dados: Mysql Workbench.
     <img align="center" height="50" width="50" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
  </p>
