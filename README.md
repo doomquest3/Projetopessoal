@@ -34,7 +34,11 @@ Projeto foi realizado através de um prototipo.
 
 
 ## Layout para Computador
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Prototipo tela login](https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaCadastro.jpeg) 
+
+<br />
+
+![Prototipo tela cadastro](https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaCadastro.jpeg)
 
 ## Prototipo
 
