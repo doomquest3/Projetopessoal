@@ -33,7 +33,7 @@
  
  <ul>
 
-  <li><div style="display: inline_block">
+  <li style="display: inline_block"><div>
     <div><p>Back-end: C# .Net</p></div>
     <div><img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/C%23.png"></div>
   </div></li>
