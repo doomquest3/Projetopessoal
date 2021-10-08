@@ -8,7 +8,8 @@
 Projeto foi realizado através de um prototipo.
 </p>
 
-<p><strong>PROGRAMAS UTILIZADOS NO PROJETO</strong></p>
+## PROGRAMAS UTILIZADOS NO PROJETO
+
 <br />
 
  ## Front-End
@@ -34,69 +35,47 @@ Projeto foi realizado através de um prototipo.
 
 
 ## Layout para Computador
-![Prototipo tela login](https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaCadastro.jpeg) 
+
+## tela de login
+
+<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaLogin.jpeg">
 
 <br />
 
-![Prototipo tela cadastro](https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaCadastro.jpeg)
+## tela de cadastro
 
-## Prototipo
+<br />
+
+<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaCadastro.jpeg">
+
+<br />
+
+## Tela de menu principal
+
+<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaMenu.jpeg">
+
+<br />
+
+## Tela de estoque
+
+<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaEstoque.jpeg">
+
+<br />
+
+## Tela de resetar senha
+
+<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaResetarSenha.jpeg">
+
+<br />
+
+## Prototipo em imagens
 
 <p>
- Foi utilizado o site Figma para criação de um prototipo das telas do banco de dados para ser utilizado.
+ Foi utilizado o site Figma para criação de um prototipo das telas do sistema de venda para ilustrar como seria feito, quais
+ cores utilzadas para as telas
 </p>
 
 <a href="https://www.figma.com/file/ABs5NiveDjZJxHzPftF7vN/Programa-banco-de-dados?node-id=0%3A1">Site com o prototipo</a>
-
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
 
 # Colaboradores
 
