@@ -31,12 +31,11 @@
  
  ## Back-End
  
- <ul>
-
-  <li style="display: inline_block"><div>
-    <div><p>Back-end: C# .Net</p></div>
+ <ul style="display: inline_block">
     <div><img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/C%23.png"></div>
-  </div></li>
+    <div><li>
+        <p>Back-end: C# .Net</p>
+    </li></div>
 
  </ul>
  
