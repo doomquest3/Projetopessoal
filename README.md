@@ -44,15 +44,16 @@
  
  
 <div style="display: flex; float: left;">
-    <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
-    <p>Banco de dados: Mysql Workbench</p>
-  </div>
+    <div>
+        <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/ imagens%20para%20repositorio/MySql.png">
+        <p>Banco de dados: Mysql Workbench</p>
+    </div>
     <br />
-    <div style="display: inline_block;">
-    <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/Xampp.png">
-    <p>Xampp</p>
-    
-  </div>
+    <div>
+        <img align="center" height="100" width="100" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/Xampp.png">
+        <p>Xampp</p>
+    </div>
+</div>
   
 <br />
 
