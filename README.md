@@ -19,9 +19,8 @@
  
 <ul>
 
-<li><div display:"inline-block">
+<li><div style="display: inline_block">
     <p>Front-end: Visual studio</p>
-    <br />
     <img align="center" height="30" width="40" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/VisualStudio.png">
     <p>Fizemos uso das ferramentas do visual studio em conjunto com C#</p>
 </div></li>
@@ -34,9 +33,8 @@
  
  <ul>
 
-  <li><div display:"inline-block">
+  <li><div style="display: inline_block">
     <p>Back-end: C# .Net</p>
-        <br />
     <img align="center" height="30" width="40" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/C%23.png">
   </div></li>
 
@@ -45,16 +43,14 @@
  ## Banco de Dados
  
  <ul>
-    <li><div display:"inline-block">
+    <li><div style="display: inline_block">
     <p>Banco de dados: Mysql Workbench</p>
-        <br />
     <img align="center" height="30" width="40" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/MySql.png">
   </div></li>
     <br />
     <li><div style="display: inline_block">
     <p>Xampp</p>
-        <br />
-    <img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/Xampp.png">
+    <img align="center" height="30" width="40" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/Xampp.png">
   </div></li>
   
 <br />
@@ -63,7 +59,7 @@
 
 ## Tela de login
 
-<img align="center" height="30" width="40" src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaLogin.jpeg">
+<img src="https://github.com/doomquest3/Projetopessoal/blob/master/imagens%20para%20repositorio/TelaLogin.jpeg">
 
 <br />
 
